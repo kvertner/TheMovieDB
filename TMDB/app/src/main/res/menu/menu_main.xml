@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="silverpine.com.tmdb.view.MainActivity">
+    <item
+        android:id="@+id/action_now_playing"
+        android:orderInCategory="100"
+        android:title="@string/now_playing_title"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_popular"
+        android:orderInCategory="100"
+        android:title="@string/popular_title"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_coming_soon"
+        android:orderInCategory="100"
+        android:title="@string/upcoming_title"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_top_rated"
+        android:orderInCategory="100"
+        android:title="@string/top_rated_title"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+</menu>
