@@ -8,3 +8,5 @@ Android Jetpack (MVVM, LiveData, etc)<br/>
 Location Services<br/>
 Glide<br/>
 Retrofit<br/>
+Android Navigation<br/>
+Google Maps<br/>
