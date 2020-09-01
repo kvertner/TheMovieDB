@@ -10,4 +10,4 @@ Glide<br/>
 Retrofit<br/>
 Android Navigation<br/>
 Google Maps<br/>
-![alt text](https://github.com/TheMovieDB/edit/master/transformers_movie.jfif?raw=true)
+![alt text](https://github.com/kvertner/TheMovieDB/blob/master/transformers_movie.PNG?raw=true)
